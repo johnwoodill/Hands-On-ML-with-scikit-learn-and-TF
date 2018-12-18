@@ -1,0 +1,9 @@
+\section{Introduction}
+
+The following notes are from Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurelien Geron. For updated annotated book notes and Python code see \href{https://github.com/johnwoodill/Hands-On-ML-with-scikit-learn-and-TF}{https://github.com/johnwoodill/Hands-On-ML-with-scikit-learn-and-TF}. For online book content see \href{https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/?utm_medium=referral&utm_campaign=publisher&utm_source=oreilly&utm_content=buybox}{Book Description Website}
+
+\vspace{20mm}
+
+\begin{center}
+\textbf{Note: The following notes are removed of all prior knowledge, thus all notes described below are new information. For detailed notes of prior knowledge see personal \href{https://github.com/johnwoodill/Notes-Intro-to-Stat-Learning}{Notes: Introduction to Statistical Learning}.}
+\end{center}
